@@ -25,8 +25,8 @@ variables.py: This module simply contains the variables to be used in re
 Click https://medium.com/@iamzamartech/creating-a-simple-etl-pipeline-using-redditapi-and-apache-airflow-3597f3f22ded to view article for more information on how to execute this project
 
 
+## Architecture
 
-### Architecture
 
+![1*-mPqSLNBllHLCvG6xxo7Sg](https://user-images.githubusercontent.com/95361532/232946647-d951f075-42c1-4578-8655-f57cbb70ffb3.png)
 
-![gdp-etl](https://user-images.githubusercontent.com/95361532/232945180-6cfcb257-95e7-47d8-bd8b-40d0eeedc8b2.jpg)
