@@ -28,5 +28,5 @@ Click https://medium.com/@iamzamartech/creating-a-simple-etl-pipeline-using-redd
 ## Architecture
 
 
-![1*-mPqSLNBllHLCvG6xxo7Sg](https://user-images.githubusercontent.com/95361532/232946647-d951f075-42c1-4578-8655-f57cbb70ffb3.png)
+![Screenshot 2023-04-19 at 02 57 25](https://user-images.githubusercontent.com/95361532/232946834-7cfceba1-726e-4c26-935f-37880197978b.png)
 
