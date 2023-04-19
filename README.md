@@ -14,6 +14,8 @@ Trigger the DAG to start the workflow.
 Note: It's important to consider security best practices and not use the standalone Airflow mode for production use, as it may lack necessary functionalities and scalability.
 
 
+### Python Code
+
 etl_reddit.py: This Python script implements the ETL (Extract, Transform, Load) process for extracting data from the Reddit API, performing transformations, and loading the data into AWS S3 using the s3fs library.
 
 etl_reddit_dag.py: This file contains the implementation of the Directed Acyclic Graph (DAG) and task definitions for Apache Airflow. The DAG defines the workflow and dependencies for executing the Reddit ETL script at scheduled intervals or manually triggered using the Airflow console.
