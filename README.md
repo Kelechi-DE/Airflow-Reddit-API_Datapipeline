@@ -20,7 +20,7 @@ etl_reddit.py: This Python script implements the ETL (Extract, Transform, Load) 
 
 etl_reddit_dag.py: This file contains the implementation of the Directed Acyclic Graph (DAG) and task definitions for Apache Airflow. The DAG defines the workflow and dependencies for executing the Reddit ETL script at scheduled intervals or manually triggered using the Airflow console.
 
-variables.py: This module simply contains the variables to be used in re
+variables.py: This module simply contains the variables to be used in etl_reddit.py module
 
 For more information on how to execute this project, click https://medium.com/@iamzamartech/creating-a-simple-etl-pipeline-using-redditapi-and-apache-airflow-3597f3f22ded to view an article i have written for it.
 
