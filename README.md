@@ -22,7 +22,7 @@ etl_reddit_dag.py: This file contains the implementation of the Directed Acyclic
 
 variables.py: This module simply contains the variables to be used in re
 
-Click https://medium.com/@iamzamartech/creating-a-simple-etl-pipeline-using-redditapi-and-apache-airflow-3597f3f22ded to view article for more information on how to execute this project
+For more information on how to execute this project, click https://medium.com/@iamzamartech/creating-a-simple-etl-pipeline-using-redditapi-and-apache-airflow-3597f3f22ded to view an article i have written for it.
 
 
 ## Architecture
