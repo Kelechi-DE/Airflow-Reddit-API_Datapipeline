@@ -1,6 +1,6 @@
 # Airflow-Reddit-API_Datapipeline
 
-### Project overview
+## Project overview
 
 the process of creating a simple ETL (Extract, Transform, Load) pipeline using RedditAPI and Apache Airflow involves the following steps:
 
@@ -14,7 +14,7 @@ Trigger the DAG to start the workflow.
 Note: It's important to consider security best practices and not use the standalone Airflow mode for production use, as it may lack necessary functionalities and scalability.
 
 
-### Python Code
+## Python Code
 
 etl_reddit.py: This Python script implements the ETL (Extract, Transform, Load) process for extracting data from the Reddit API, performing transformations, and loading the data into AWS S3 using the s3fs library.
 
