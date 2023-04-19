@@ -1,4 +1,4 @@
-# Airflow-Reddit-API_Datapipeline
+# Airflow_Reddit_API_Datapipeline
 
 ## Project overview
 
